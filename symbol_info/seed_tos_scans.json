@@ -1,1 +1,8 @@
-
+[
+  {
+    "symbol": "SCAN_LIST",
+    "description": "Thinkorswim Scan Results",
+    "pricescale": 100,
+    "type": "stock"
+  }
+]
